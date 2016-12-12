@@ -25,3 +25,7 @@ a=3
 b=5
 resultado= 2*a*3*b
 print("O resultado da expressao:2a*3b =",resultado)
+
+"""_______________________________________"""
+expressao4=2**a
+print("O resultado da expressao: 2**a=",expressão4)
