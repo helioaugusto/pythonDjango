@@ -1,2 +1,4 @@
 arquivo.py
 lerArquivo.py
+copiaArquivo.py
+aleatorios.txt
